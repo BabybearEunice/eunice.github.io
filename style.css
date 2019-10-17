@@ -51,7 +51,7 @@ html, body{
   width:100%;
   padding-top:100%;
 }
-.btn active{
+.btn:active{
   box-shadow:0 3px 5px rgba(0,0,0,0.5);
 }
 
@@ -63,7 +63,7 @@ html, body{
 .btn:hover span{
   opacity:1;
 }
-.btn after{
+.btn:after{
   content:"+";
   font-size:40pz;
   line-height:50px;
