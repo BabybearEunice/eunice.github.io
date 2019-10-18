@@ -13,8 +13,11 @@ html, body{
   font-size:30px;
   font-family:微軟正黑體;
 }
-.static{
+.relative{
   baclground-color:#AFEEEE;
+  position:relative;
+  top:50px;
+  left:50px;
 }
 .wrapper:{
   height:100%;
