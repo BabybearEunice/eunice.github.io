@@ -25,6 +25,9 @@ html, body{
   font-size:30px;
   font-family:ariel;
 }
+.button:hover{
+  color:#ff9b19;
+}
 .wrapper:{
   height:100%;
   background-color:#1e1e1e;
