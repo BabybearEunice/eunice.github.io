@@ -19,6 +19,12 @@ html, body{
   top:50px;
   left:50px;
 }
+.button{
+  color:#666;
+  text-decoration:none;
+  font-size:30px;
+  font-family:ariel;
+}
 .wrapper:{
   height:100%;
   background-color:#1e1e1e;
