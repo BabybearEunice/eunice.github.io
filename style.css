@@ -39,8 +39,8 @@ html, body{
 }
 .button:before{
   content:"";
-  width:100px;
-  height:100px;
+  width:0px;
+  height:3px;
   background-color:#ff9b19;
   display:inline-block;
   position:absolute;
@@ -54,8 +54,8 @@ html, body{
 }
 .button:after{
   content:"";
-  width:100px;
-  height:100px;
+  width:0px;
+  height:3px;
   background-color:#ff9b19;
   display:inline-block;
   position:absolute;
