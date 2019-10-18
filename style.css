@@ -29,7 +29,7 @@ html, body{
   padding-top;20px;
   padding-buttom:20px;
   display:inline-block;
-  transition:width 0.3s;
+  
 }
 .button:hover{
   color:#ff9b19;
@@ -46,6 +46,7 @@ html, body{
   position:absolute;
   top:0;
   left:0;
+  transition:width 0.3s;
 }
 .button:hover:before{
   color:#ff9b19;
@@ -60,6 +61,7 @@ html, body{
   position:absolute;
   buttom:0;
   left:0;
+  transition:width 0.3s;
  
 }
 .button:hover:after{
