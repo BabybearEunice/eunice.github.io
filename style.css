@@ -9,7 +9,10 @@ html, body{
 .post{
   width:300px;
   height:300px;
-  border:1px solid #000
+  border:1px solid #000;
+}
+.static{
+  baclground-color:#AFEEEE;
 }
 .wrapper:{
   height:100%;
