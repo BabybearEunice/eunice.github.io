@@ -29,6 +29,7 @@ html, body{
   padding-top;20px;
   padding-buttom:20px;
   display:inline-block;
+  transition:width 0.3s;
 }
 .button:hover{
   color:#ff9b19;
