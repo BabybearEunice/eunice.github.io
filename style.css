@@ -10,6 +10,8 @@ html, body{
   width:300px;
   height:300px;
   border:1px solid #000;
+  font-size:30px;
+  font-family:微軟正黑體;
 }
 .static{
   baclground-color:#AFEEEE;
