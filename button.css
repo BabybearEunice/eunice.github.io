@@ -46,7 +46,7 @@ html, body{
   position:absolute;
   top:0;
   left:0;
-  transition:width 0.3s;
+  transition:all 0.3s;
 }
 .button:hover:before{
   color:#ff9b19;
@@ -62,7 +62,7 @@ html, body{
   bottom:0;
   left:50%;
   transform:translateX(-50%);
-  transition:width 0.3s;
+  transition:all 0.3s;
  
 }
 .button:hover:after{
