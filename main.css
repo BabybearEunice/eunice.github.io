@@ -68,12 +68,12 @@ html, body{
 }
 /*navBar*/
 .navBar{
-  background-color: rgba(255, 250, 205, 0.7);
+  background-color: rgba(255, 250, 205, 0.8);
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 50;
+  z-index: 60;
 }
 .navBar .elements{
    height: 80px;
