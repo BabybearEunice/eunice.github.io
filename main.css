@@ -14,6 +14,7 @@ html, body{
   height: 100%;
   margin: 0 auto;
   border: 1px solid #999;
+  padding: 0 15px;
 }
 .row:after{
   content:"";
@@ -70,6 +71,7 @@ html, body{
 
 /*whatsOn*/
 .whatsOn{
+  background-color: #FFECF5;
 }
 .whatsOn .album .albumArt{
   float: left;
