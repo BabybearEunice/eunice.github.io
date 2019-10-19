@@ -11,10 +11,23 @@ html, body{
 /*框線的設定*/
 .contaioner{
   width: 1170px;
+  height: 100%;
   margin: 0 auto;
   border: 1px solid #999;
 }
 /*custom*/
+.elements{
+  background-color: rgba(0,0,0,0.5);
+  border: 1px solid ##fffff0;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 20px;
+  padding: 10px;
+}
 .navBar{
-  height: 80px;
+  background-color: rgba(255, 255, 224, 0.6);
+}
+
+.navBar .elements{
+   height: 80px;
 }
