@@ -66,11 +66,10 @@ html, body{
   width: 100%;
   height: 10000px;
 }
-
 /*navBar*/
 .navBar{
   background-color: rgba(0, 0, 0, 0.6);
-  
+  position: fixed;
 }
 .navBar .elements{
    height: 80px;
