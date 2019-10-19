@@ -9,11 +9,23 @@ html, body{
   height:10000px;
 }
 /*框線的設定*/
-.contaioner{
+.container{
   width: 1170px;
   height: 100%;
   margin: 0 auto;
   border: 1px solid #999;
+}
+.row:after{
+  content:"";
+  display: block;
+  clear: both;
+  height:0;
+  visibility:hidden;
+}
+.col-1-2{
+  float: left;
+  width: 50%;
+  border: 1px solid #000;
 }
 /*custom*/
 .elements{
@@ -54,4 +66,16 @@ html, body{
 }
 .jumbotron .elements{
   height: 500px;
+}
+
+/*whatsOn*/
+.whatsOn{
+}
+.whatsOn .album .albumArt{
+  float: left;
+  width: 50%;
+}
+.whatsOn .album .albumArt .elements{
+  float: left;
+  height: 300px;
 }
