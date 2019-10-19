@@ -76,20 +76,23 @@ html, body{
 }
 
 .btn{
-  color:#ffbb33;
+  color:#fff;
   text-decoration:none;
   font-family:微軟正黑體;
   border:1px solid #ff1965;
   background-color:#ff1965;
   padding:10px 30px;
+  line-height:24px;
   display: inline-block;
   width:56px;
   line-height:0.56px;
   border-radius:28px;
+  box-shadow:0 10px 20px rgba(0,0,0,0.5);
   
   position:absolute;
-  right:100px;
-  top:100px;
+  right:50px;
+  top:50px;
+  transform:translate(-50%,-50%);
   
   transition:all 0.3s;
   overflow:hidden;
@@ -104,9 +107,9 @@ html, body{
   position:absolute;
   top:50%;
   left:50%;
-  transform:(translate:-50%,-50%);
-  width:0%;
-  padding-top:0%;
+  transform:translate:(-50%,-50%);
+  width:100%;
+  padding-top:100%;
   background-color:rgba(256,256,256,0.2);
   border-radius:50%;
   transition:all 0.3s;
