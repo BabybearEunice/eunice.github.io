@@ -79,8 +79,9 @@ html, body{
   color:#ffbb33;
   text-decoration:none;
   font-family:微軟正黑體;
-  border:1px solid #ffbb33;
-  background-color:#ffbb33;
+  border:1px solid #ff1965;
+  background-color:#ff1965;
+  padding:10px 30px;
   display: inline-block;
   width:56px;
   line-height:0.56px;
