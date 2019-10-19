@@ -38,6 +38,11 @@ html, body{
 }
 
 /*jumbotron*/
+.jumbotron{
+  border: 1px solid #000;
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
 .jumbotron .elements{
   height: 500px;
 }
