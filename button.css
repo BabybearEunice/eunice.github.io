@@ -97,11 +97,11 @@ html, body{
   transition:all 0.3s;
   overflow:hidden;
 }
-.btn:hover{
+/*.btn:hover{
   padding:0.25px;
   width:auto;
   background-color:#1e1e1e;
-}
+}*/
 .btn:before{
   content:"";
   position:absolute;
