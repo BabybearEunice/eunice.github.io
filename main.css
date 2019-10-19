@@ -24,10 +24,20 @@ html, body{
   font-size: 20px;
   padding: 10px;
 }
-.navBar{
-  background-color: rgba(255, 255, 224, 0.6);
+.givePadding{
+  padding-top: 150px;
+  padding-bottom: 100px;
 }
-
+/*navBar*/
+.navBar{
+  background-color: rgba(0, 0, 0, 0.6);
+  
+}
 .navBar .elements{
    height: 80px;
+}
+
+/*jumbotron*/
+.jumbotron .elements{
+  height: 500px;
 }
