@@ -33,10 +33,10 @@ html, body{
   
 }
 .button:hover{
-  color:#ff9b19;
+  color:#5B5B5B;
 }
 .button:active{
-  color:red;
+  color:#46A3FF;
 }
 .button:before{
   content:"";
