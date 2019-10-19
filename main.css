@@ -1,3 +1,4 @@
+/*global*/
 *{
   position:relative;
   box-sizing:border-box;
@@ -7,6 +8,13 @@ html, body{
   padding:0;
   height:10000px;
 }
-
+/*框線的設定*/
 .contaioner{
+  width: 1170px;
+  margin: 0 auto;
+  border: 1px solid #999;
+}
+/*custom*/
+.navBar{
+  height: 80px;
 }
