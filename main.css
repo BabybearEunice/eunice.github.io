@@ -59,7 +59,7 @@ html, body{
   padding-bottom: 100px;
 }
 .mainBg{
-  background: linear-gradient(50deg, #FFB5B5 0, #E2C2DE 100%);
+  background: linear-gradient(50deg, #FFFCEC 0, #FFFFDF 100%);
   position:fixed;
   top: 0;
   left: 0;
