@@ -23,7 +23,7 @@ html, body{
   height:0;
   visibility:hidden;
 }
-.col-1-2, col-1-3{
+.col-1-2, col-1-3, col-1-6, col-5-6{
   float: left;
   border: 1px solid #000;
 }
@@ -31,7 +31,13 @@ html, body{
   width: 50%;
 }
 .col-1-3{
-  width: 33.3%;
+  width: 33.333333%;
+}
+.col-1-6{
+  width: 16.666667%;
+}
+.col-5-6{
+  width: 83.333333%;
 }
 /*custom*/
 .elements{
@@ -86,8 +92,21 @@ html, body{
   float: left;
   height: 300px;
 }
-
 /*Albums*/
 .albums .elements{
   height: 400px;
+}
+/*Devices*/
+.devices{
+  background-color: #222326;
+}
+.devices .elements{
+  height: 300px;
+}
+/*subscription*/
+.subscription{
+  padding-bottom: 0;
+}
+.subscription .elements{
+  height: 800px;
 }
