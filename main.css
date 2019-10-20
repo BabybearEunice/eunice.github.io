@@ -155,3 +155,33 @@ html, body{
 .footer .row-small .elements{
   height: 40px;
 }
+@media (max-width: 1200px){
+}
+@media (max-width: 1024px){
+}
+@media (max-width: 992px){
+  .mainContent{
+    width: 100%;
+  }
+  .side{
+    width: 100px;
+    height: 300px;
+  }
+}
+@media (max-width: 768px){
+  .productGroup .product{
+    width: 50%;
+  }
+  .navBar{
+    height: 50px;
+  }
+}
+@media (max-width: 480px){
+  .productGroup .product{
+    width: 100%;
+  }
+}
+@media (max-width: 375px){
+}
+@media (max-width: 320px){
+}
