@@ -133,6 +133,9 @@ html, body{
   padding-top: 80px;
   padding-bottom: 50px;
   background-color: #000;
+  position: fixed;
+  width: 100%;
+  z-index: 60;
 }
 .footer .element{
   height: 300px;
