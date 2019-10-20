@@ -128,7 +128,7 @@ html, body{
 }
 /*Devices*/
 .devices{
-  background-color: #222326;
+  background-color: #FFECF5;
 }
 .devices .elements{
   height: 300px;
@@ -144,7 +144,7 @@ html, body{
 .footer{
   padding-top: 80px;
   padding-bottom: 50px;
-  background-color: #222326;
+  background-color: #9e989b;
 }
 .footer .element{
   height: 300px;
