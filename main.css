@@ -45,6 +45,18 @@ html, body{
 .col-5-6{
   width: 83.333333%;
 }
+@media screen and (max-width: 768px){
+  .col{
+    width: 50%;
+  }
+}
+@media screen and (max-width: 540px){
+  .col{
+    width: 100%;
+  }
+}
+
+
 /*custom*/
 .elements{
   background-color: rgba(0,0,0,0.5);
