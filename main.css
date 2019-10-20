@@ -116,7 +116,7 @@ html, body{
 }
 .whatsOn .album .albumArt{
   float: left;
-  width: 50%;
+  width: 100%;
 }
 .whatsOn .album .albumArt .elements{
   float: left;
