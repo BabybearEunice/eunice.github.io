@@ -68,7 +68,7 @@ html, body{
 }
 /*navBar*/
 .navBar{
-  background-color: rgba(248, 248, 245, 0.9);
+  background-color: rgb(248, 248, 245);
   position: fixed;
   top: 0;
   left: 0;
