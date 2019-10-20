@@ -33,7 +33,7 @@ html, body{
   
 }
 .button:hover{
-  color:#5B5B5B;
+  color:#87cefa;
 }
 .button:active{
   color:#46A3FF;
@@ -70,6 +70,26 @@ html, body{
   color:#ff9b19;
   width:100%;
 }
+
+
+.textbtn{
+  color:#666;
+  text-decoration:none;
+  font-size:16px;
+  font-family:ariel;
+  
+  position:relative;
+  padding-top:20px;
+  padding-buttom:20px;
+  display:inline-block;
+}
+.textbtn:hover{
+  color:#87cefa;
+}
+.textbtn:active{
+  color:#46A3FF;
+}
+
 
 /*.wrapper:{
   height:100%;
