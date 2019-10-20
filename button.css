@@ -42,7 +42,7 @@ html, body{
   content:"";
   width:0px;
   height:3px;
-  background-color:#ff9b19;
+  background-color:#87cefa;
   display:inline-block;
   position:absolute;
   top:0;
@@ -57,7 +57,7 @@ html, body{
   content:"";
   width:0px;
   height:3px;
-  background-color:#ff9b19;
+  background-color:#87cefa;
   display:inline-block;
   position:absolute;
   bottom:0;
