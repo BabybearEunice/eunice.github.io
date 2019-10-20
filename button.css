@@ -52,7 +52,7 @@ html, body{
 .button:hover:before{
   color:#ff9b19;
   width:100%;
-}*/
+}
 .button:after{
   content:"";
   width:0px;
@@ -70,7 +70,7 @@ html, body{
   color:#ff9b19;
   width:100%;
 }
-
+*/
 
 .textbtn{
   color:#666;
